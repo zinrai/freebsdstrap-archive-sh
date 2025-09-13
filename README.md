@@ -62,4 +62,4 @@ $6$saltgoeshere$0dg6RXe2XXlYBNB0ejxp2dNiHbEtTjIAHYZbV9ABGmvkP.3eQsWM/wkQMiUP86uC
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/license/mit) for details.
+This project is licensed under the [MIT License](./LICENSE).
